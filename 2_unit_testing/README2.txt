@@ -1,1 +1,2 @@
-
+Unit testing is accomplished through the use of the generated "Forms" and "Reports" that can be found in the MS Access front-end.
+The main use of the unit testing is for the purpose of making sure that appropriate error flags are sent to the user, if duplicate or improper data types have been entered that conflict with the establish primary and foreign keys already established in the MySQL Back-End.
